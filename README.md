@@ -1,4 +1,5 @@
 RepositoryDemo
 ==============
 
-Just a reposity for testing 
+My  name  is  XXX  
+Git is a useful tool for group coding .
